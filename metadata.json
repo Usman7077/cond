@@ -1,0 +1,10 @@
+{
+  "name": "QuickOrder Store & Order Management",
+  "description": "Customer ordering platform with interactive Google Maps delivery pin selection, automated WhatsApp & email shopkeeper receipts, item catalog management, and real-time order tracking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
